@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="natural language processing/natural language processing.vcxproj" Id="a4a99592-1faf-460d-a4ec-a0d292a19104" />
+</Solution>
